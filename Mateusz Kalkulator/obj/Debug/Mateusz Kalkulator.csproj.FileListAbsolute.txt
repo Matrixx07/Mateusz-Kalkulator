@@ -1,0 +1,10 @@
+C:\MatiProjekt\Mateusz Kalkulator\Mateusz Kalkulator\bin\Debug\Mateusz Kalkulator.exe.config
+C:\MatiProjekt\Mateusz Kalkulator\Mateusz Kalkulator\bin\Debug\Mateusz Kalkulator.exe
+C:\MatiProjekt\Mateusz Kalkulator\Mateusz Kalkulator\bin\Debug\Mateusz Kalkulator.pdb
+C:\MatiProjekt\Mateusz Kalkulator\Mateusz Kalkulator\obj\Debug\Mateusz Kalkulator.csproj.AssemblyReference.cache
+C:\MatiProjekt\Mateusz Kalkulator\Mateusz Kalkulator\obj\Debug\Mateusz_Kalkulator.Form1.resources
+C:\MatiProjekt\Mateusz Kalkulator\Mateusz Kalkulator\obj\Debug\Mateusz_Kalkulator.Properties.Resources.resources
+C:\MatiProjekt\Mateusz Kalkulator\Mateusz Kalkulator\obj\Debug\Mateusz Kalkulator.csproj.GenerateResource.cache
+C:\MatiProjekt\Mateusz Kalkulator\Mateusz Kalkulator\obj\Debug\Mateusz Kalkulator.csproj.CoreCompileInputs.cache
+C:\MatiProjekt\Mateusz Kalkulator\Mateusz Kalkulator\obj\Debug\Mateusz Kalkulator.exe
+C:\MatiProjekt\Mateusz Kalkulator\Mateusz Kalkulator\obj\Debug\Mateusz Kalkulator.pdb
