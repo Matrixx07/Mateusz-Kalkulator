@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\MatiProjekt\\Mateusz Kalkulator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\MatiProjekt\\Mateusz Kalkulator\\Mateusz Kalkulator\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mateusz Kalkulator\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{925277C4-38BE-4AD4-9216-BB2F476B6A20}|Mateusz Kalkulator\\Mateusz Kalkulator.csproj|c:\\matiprojekt\\mateusz kalkulator\\mateusz kalkulator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{925277C4-38BE-4AD4-9216-BB2F476B6A20}|Mateusz Kalkulator\\Mateusz Kalkulator.csproj|solutionrelative:mateusz kalkulator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\MatiProjekt\\Mateusz Kalkulator\\Mateusz Kalkulator\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mateusz Kalkulator\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{925277C4-38BE-4AD4-9216-BB2F476B6A20}|Mateusz Kalkulator\\Mateusz Kalkulator.csproj|C:\\MatiProjekt\\Mateusz Kalkulator\\Mateusz Kalkulator\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{925277C4-38BE-4AD4-9216-BB2F476B6A20}|Mateusz Kalkulator\\Mateusz Kalkulator.csproj|solutionrelative:Mateusz Kalkulator\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -28,11 +28,15 @@
               "RelativeDocumentMoniker": "Mateusz Kalkulator\\Form1.cs",
               "ToolTip": "C:\\MatiProjekt\\Mateusz Kalkulator\\Mateusz Kalkulator\\Form1.cs",
               "RelativeToolTip": "Mateusz Kalkulator\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-10T18:13:32.034Z",
               "IsPinned": true,
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
